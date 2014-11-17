@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UI-AlternateCurrencySign-1</key>
+    <string>$</string>
+    <key>UI-AlternateCurrencySign-2</key>
+    <string>£</string>
+    <key>UI-AlternateCurrencySign-3</key>
+    <string>¥</string>
+    <key>UI-LanguageIndicator</key>
+    <string>Български</string>
+    <key>UI-PrimaryCurrencySign</key>
+    <string>€</string>
+    <key>Roman-Accent-Е</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>Ѐ</string>
+        <key>Strings</key>
+        <string>Ѐ</string>
+    </dict>
+
+    <key>Roman-Accent-е</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>ѐ</string>
+        <key>Strings</key>
+        <string>ѐ</string>
+    </dict>
+    <key>Roman-Accent-И</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>Ѝ</string>
+        <key>Strings</key>
+        <string>Ѝ</string>
+    </dict>
+
+    <key>Roman-Accent-и</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>ѝ</string>
+        <key>Strings</key>
+        <string>ѝ</string>
+    </dict>
+    <key>Roman-Accent-А</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>À</string>
+        <key>Strings</key>
+        <string>À</string>
+    </dict>
+
+    <key>Roman-Accent-а</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>à</string>
+        <key>Strings</key>
+        <string>à</string>
+    </dict>
+    <key>Roman-Accent-О</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>Ò</string>
+        <key>Strings</key>
+        <string>Ò</string>
+    </dict>
+
+    <key>Roman-Accent-о</key>
+    <dict>
+        <key>Direction</key>
+        <string>right</string>
+        <key>Keycaps</key>
+        <string>ò</string>
+        <key>Strings</key>
+        <string>ò</string>
+    </dict>
+</dict>
+</plist>
+
